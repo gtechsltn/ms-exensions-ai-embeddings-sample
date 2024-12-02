@@ -1,8 +1,6 @@
-# ms-exensions-ai-embeddings-sample
+# Using Microsoft.Extensions.AI to Generate Embeddings in .NET
 
 Repository containing a simple console application using Microsoft.Extensions.AI NuGet package to create embeddings.
-
-# Using Microsoft.Extensions.AI to Generate Embeddings in .NET
 
 https://medium.com/medialesson/using-microsoft-extensions-ai-to-generate-embeddings-in-net-0e6485180593
 
